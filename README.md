@@ -39,7 +39,7 @@ This project aims to explore the potential of merging emergent optical processin
 
 ## Deploy the project and test the prototype here: 
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/sb1-56sqdy?file=package.json) 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/sb1-56sqdy) 
 
 
 ## Installation and Usage
