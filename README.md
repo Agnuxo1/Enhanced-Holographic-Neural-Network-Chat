@@ -37,6 +37,11 @@ This project aims to explore the potential of merging emergent optical processin
 * **3D Visualization Components:** Includes components like `NeuralWeb`, `NeuralNode`, `NeuralConnections`, `OuterNebula`, and `ColorProcessor` for creating the 3D scene.
 * **UI Components:** Utilizes components from a UI library (e.g., Radix UI) for buttons, inputs, tabs, progress bars, and other interactive elements.
 
+## Deploy the project and test the prototype here: 
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/sb1-56sqdy?file=package.json) 
+
+
 ## Installation and Usage
 
 1. **Clone the repository:**
